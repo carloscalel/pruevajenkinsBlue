@@ -5,7 +5,7 @@ pipeline {
       parallel {
         stage('build') {
           steps {
-            echo 'jenkins prueva carlos123'
+            echo 'jenkins prueva carlos'
           }
         }
         stage('error') {
