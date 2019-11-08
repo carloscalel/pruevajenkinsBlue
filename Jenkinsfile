@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        echo 'jenkins prueva'
+        echo 'jenkins prueva calel'
       }
     }
   }
